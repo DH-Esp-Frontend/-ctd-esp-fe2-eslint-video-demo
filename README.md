@@ -1,1 +1,2 @@
-# -ctd-esp-fe2-eslint-video-demo
+# Blog App
+Base code example with ESlint 
